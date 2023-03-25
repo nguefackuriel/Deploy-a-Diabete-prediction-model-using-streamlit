@@ -1,0 +1,5 @@
+numpy
+pandas
+streamlit
+matplotlib
+pickle-mixin
