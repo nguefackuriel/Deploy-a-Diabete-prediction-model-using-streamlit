@@ -5,13 +5,13 @@ In this project, we will design a machine learning algorithm based on Gaussian D
 We will use the Diabete dataset containing 8 features: 
 
 * Pregnancies: The number of pregnancies
-. Glucose: The level of glucose
-. BloodPressure: The value of the blood pressure
-. SkinThickness: The SkinThickness value
-. Insulin: The value of the Insulin
-. BMI: The value of the Body Mass Indice
-. DiabetesPedigreeFunction: The DiabetesPedigreeFunction
-. Age: The age of the patient
+* Glucose: The level of glucose
+* BloodPressure: The value of the blood pressure
+* SkinThickness: The SkinThickness value
+* Insulin: The value of the Insulin
+* BMI: The value of the Body Mass Indice
+* DiabetesPedigreeFunction: The DiabetesPedigreeFunction
+* Age: The age of the patient
 
 
 After building our model, we will save it using pickle and deploy it using streamlit.
