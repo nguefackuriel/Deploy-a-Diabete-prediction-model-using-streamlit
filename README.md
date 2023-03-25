@@ -19,3 +19,5 @@ After building our model, we will save it using pickle and deploy it using strea
 The model accuracy is around 77%. You can try other models 
 
 You will find everything you need to reproduce the project in this folder.
+
+You can test the app using this link: https://nguefackuriel-deploy-a-diabete-pr-diabete-prediction-app-nv383r.streamlit.app/
