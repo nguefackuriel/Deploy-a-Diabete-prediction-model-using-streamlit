@@ -42,7 +42,7 @@ def main():
 
     result = ''
 
-    if st.button('Flower test result'):
+    if st.button('Diabete test result'):
         result = prediction_model([float(Pregnancies),float(Glucose),float(BloodPressure),float(SkinThickness),float(Insulin),float(BMI),float(DiabetesPedigreeFunction),float(Age)])
 
     # Display the result
