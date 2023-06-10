@@ -7,6 +7,7 @@ from GDA import GDA
 # Load our mnodel
 model_load = pickle.load(open('my_model_diabete.sav', 'rb'))
 
+
 # Define a prediction function
 
 def prediction_model(input_data):
